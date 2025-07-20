@@ -6,15 +6,15 @@ This Power BI dashboard analyzes salary trends across multiple dimensions:
 - 📍 Average Salary by Location
 - 🧠 Salary by Experience
 - 🧑‍💼 Average Salary by Job Title
-- 🏠 Remote vs On-site Salary Impact
 - 📈 Salary Trends by Year
 
 ## 🛠️ Tools Used:
+- VS Code
 - Snowflake (Data Source)
 - Power BI Desktop
 
 ## 📁 File:
-- `Job_Salary_Analysis.pbix` – The complete dashboard
+- `Job Market Trend & Salary Dashboard.pbix` – The complete dashboard
 
 ## 📸 Preview:
 > ![Dashboard Screenshot](./Dashboard_Screenshot.png)
